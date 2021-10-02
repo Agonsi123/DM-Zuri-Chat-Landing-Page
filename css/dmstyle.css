@@ -1,0 +1,1098 @@
+/* css for container */
+.container{
+    position: relative;
+    width: 1440px;
+    height: 1346px;
+    background: #f9f9f9;
+
+}
+/* css for sidebar */
+.sidebar{
+    position: absolute;
+    bottom: 68px;
+    left: 0px;
+    right: 1170;
+    top: 0px;
+    width: 270px;
+    height: 1278px;
+    background: #ffffff;
+
+}
+/* css for logo */
+.logo{
+    position: absolute;
+    width: 228px;
+    height: 27px;
+    top: 25px;
+    left: 16px;
+    background: #fff;
+}
+.logo img{
+    position: absolute;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 20.46px;
+    line-height: 27px;
+    text-align: center;
+    color: #242424;
+    left: 6px;
+    /* right: 59.21%; */
+}
+.frame{
+    position: absolute;
+    width: 260px;
+    height: 44px;
+    top: 62px;
+    left: 0px;
+    background: #00887c;
+}
+.frame h6{
+    position: absolute;
+    width: 56px;
+    height: 28px;
+    left: 16px;
+    top: 10px;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 28px;
+    color: #ffffff;
+}
+/* css for icons */
+.fa-angle-down{
+    position: absolute;
+    width: 18px;
+    height: 18px;
+    left: 80px;
+    top: 17px;
+    color: #ffffff;
+}
+.eclipse{
+    position: absolute;
+    width: 34px;
+    height: 34px;
+    left: 208px;
+    top: 5px;
+    background: #ffffff;
+    border-radius: 50%;
+}
+.fa-edit{
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 9px;
+    top: 9px;
+}
+.thread{
+    position: absolute;
+    width: 219px;
+    height: 28px;
+    left: 16px;
+    top: 111px;
+    display: flex;
+    background: #ffffff;
+}
+.thread p{
+    position: absolute;
+    width: 53px;
+    height: 28px;
+    left: 26px;
+    font-family: Lato;
+    font-weight: normal;
+    font-style: normal;
+    font-size: 15px;
+    line-height: 28px;
+    color: #454545;
+}
+.all-dm{
+    position: absolute;
+    width: 219px;
+    height: 28px;
+    left: 16px;
+    top: 139px;
+    display: flex;
+    background: #ffffff;
+}
+.all-dm p{
+    position: absolute;
+    width: 53px;
+    height: 28px;
+    left: 26px;
+    font-family: Lato;
+    font-weight: normal;
+    font-style: normal;
+    font-size: 15px;
+    line-height: 28px;
+    color: #454545; 
+}
+
+.draft{
+    position: absolute;
+    width: 219px;
+    height: 28px;
+    left: 16px;
+    top: 167px;
+    display: flex;
+    background: #ffffff;
+}
+
+.draft p{
+    position: absolute;
+    width: 53px;
+    height: 28px;
+    left: 26px;
+    font-family: Lato;
+    font-weight: normal;
+    font-style: normal;
+    font-size: 15px;
+    line-height: 28px;
+    color: #454545; 
+}
+
+.files{
+    position: absolute;
+    width: 219px;
+    height: 28px;
+    left: 16px;
+    top: 195px;
+    display: flex;
+    background: #ffffff;
+}
+
+.files p{
+    position: absolute;
+    width: 53px;
+    height: 28px;
+    left: 26px;
+    font-family: Lato;
+    font-weight: normal;
+    font-style: normal;
+    font-size: 15px;
+    line-height: 28px;
+    color: #454545; 
+}
+
+.plugin{
+    position: absolute;
+    width: 221px;
+    height: 28px;
+    left: 16px;
+    top: 223px;
+    display: flex;
+    flex-direction: row;
+    background: #ffffff;
+}
+
+.plugin p{
+    position: absolute;
+    width: 53px;
+    height: 28px;
+    left: 26px;
+    font-family: Lato;
+    font-weight: normal;
+    font-style: normal;
+    font-size: 15px;
+    line-height: 28px;
+    color: #454545; 
+}
+
+.fa-plus-circle{
+    position: absolute;
+    left: 208px;
+    top: 9px;
+}
+
+.game{
+    position: absolute;
+    width: 219px;
+    height: 28px;
+    left: 16px;
+    top: 256px;
+    display: flex;
+    background: #ffffff;
+}
+
+.game p{
+    position: absolute;
+    width: 53px;
+    height: 28px;
+    left: 26px;
+    font-family: Lato;
+    font-weight: bold;
+    font-style: normal;
+    font-size: 15px;
+    line-height: 28px;
+    color: #454545; 
+}
+
+.chess{
+    position: absolute;
+    width: 192px;
+    height: 28px;
+    left: 42px;
+    top: 289px;
+    display: flex;
+    background: #ffffff;
+}
+
+.chess p{
+    position: absolute;
+    width: 53px;
+    height: 28px;
+    left: 26px;
+    font-family: Lato;
+    font-weight: normal;
+    font-style: normal;
+    font-size: 15px;
+    line-height: 28px;
+    color: #454545; 
+}
+
+.sol{
+    position: absolute;
+    width: 192px;
+    height: 28px;
+    left: 42px;
+    top: 317px;
+    display: flex;
+    background: #ffffff;
+}
+
+.sol p{
+    position: absolute;
+    width: 53px;
+    height: 28px;
+    left: 26px;
+    font-family: Lato;
+    font-weight: normal;
+    font-style: normal;
+    font-size: 15px;
+    line-height: 28px;
+    color: #454545; 
+}
+
+.music{
+    position: absolute;
+    width: 221px;
+    height: 28px;
+    left: 16px;
+    top: 350px;
+    display: flex;
+    background: #ffffff;
+}
+
+.music p{
+    position: absolute;
+    width: 53px;
+    height: 28px;
+    left: 26px;
+    font-family: Lato;
+    font-weight: bold;
+    font-style: normal;
+    font-size: 15px;
+    line-height: 28px;
+    color: #454545; 
+}
+
+.all-mus{
+    position: absolute;
+    width: 240px;
+    height: 28px;
+    left: 42px;
+    top: 383px;
+    display: flex;
+    background: #ffffff;
+}
+
+.all-mus p{
+    position: absolute;
+    width: 120px;
+    height: 28px;
+    left: 26px;
+    font-family: Lato;
+    font-weight: normal;
+    font-style: normal;
+    font-size: 15px;
+    line-height: 28px;
+    color: #454545; 
+}
+
+.tape{
+    position: absolute;
+    width: 195px;
+    height: 28px;
+    left: 42px;
+    top: 411px;
+    display: flex;
+    background: #ffffff;
+}
+
+.tape p{
+    position: absolute;
+    width: 120px;
+    height: 28px;
+    left: 26px;
+    font-family: Lato;
+    font-weight: normal;
+    font-style: normal;
+    font-size: 15px;
+    line-height: 28px;
+    color: #454545; 
+}
+
+.tools{
+    position: absolute;
+    width: 167px;
+    height: 28px;
+    left: 16px;
+    top: 444px;
+    display: flex;
+}
+
+.tools p{
+    position: absolute;
+    width: 53px;
+    height: 28px;
+    left: 26px;
+    font-family: Lato;
+    font-weight: bold;
+    font-style: normal;
+    font-size: 15px;
+    line-height: 28px;
+    color: #454545; 
+}
+
+.online{
+    position: absolute;
+    width: 219px;
+    height: 28px;
+    left: 42px;
+    top: 477px;
+    display: flex;
+}
+
+.fa-tools{
+    width: 18px;
+    height: 18px;
+    position: absolute;
+}
+.online p{
+    position: absolute;
+    width: 120px;
+    height: 28px;
+    left: 26px;
+    font-family: Lato;
+    font-weight: normal;
+    font-style: normal;
+    font-size: 15px;
+    line-height: 28px;
+    color: #454545; 
+}
+
+.to-do{
+    position: absolute;
+    width: 219px;
+    height: 28px;
+    left: 42px;
+    top: 508px;
+    display: flex;
+}
+
+.to-do p{
+    position: absolute;
+    width: 120px;
+    height: 28px;
+    left: 26px;
+    font-family: Lato;
+    font-weight: normal;
+    font-style: normal;
+    font-size: 15px;
+    line-height: 28px;
+    color: #454545; 
+}
+
+.white{
+    position: absolute;
+    width: 219px;
+    height: 28px;
+    left: 42px;
+    top: 533px;
+    display: flex;
+}
+
+.white p{
+    position: absolute;
+    width: 167px;
+    height: 28px;
+    left: 26px;
+    font-family: Lato;
+    font-weight: normal;
+    font-style: normal;
+    font-size: 15px;
+    line-height: 28px;
+    color: #454545; 
+}
+
+.notice{
+    position: absolute;
+    width: 219px;
+    height: 28px;
+    left: 42px;
+    top: 561px;
+    display: flex;
+}
+
+.notice p{
+    position: absolute;
+    width: 167px;
+    height: 28px;
+    left: 26px;
+    font-family: Lato;
+    font-weight: normal;
+    font-style: normal;
+    font-size: 15px;
+    line-height: 28px;
+    color: #454545; 
+}
+
+.calendar{
+    position: absolute;
+    width: 167px;
+    height: 28px;
+    left: 16px;
+    top: 594px;
+    display: flex;
+}
+
+.calendar p{
+    position: absolute;
+    width: 167px;
+    height: 28px;
+    left: 26px;
+    font-family: Lato;
+    font-weight: bold;
+    font-style: normal;
+    font-size: 15px;
+    line-height: 28px;
+    color: #454545; 
+}
+
+.holy{
+    position: absolute;
+    width: 167px;
+    height: 28px;
+    left: 42px;
+    top: 627px;
+    display: flex;
+}
+
+.holy p{
+    position: absolute;
+    width: 167px;
+    height: 28px;
+    left: 26px;
+    font-family: Lato;
+    font-weight: normal;
+    font-style: normal;
+    font-size: 15px;
+    line-height: 28px;
+    color: #454545; 
+}
+
+.duty{
+    position: absolute;
+    width: 167px;
+    height: 28px;
+    left: 42px;
+    top: 655px;
+    display: flex;
+}
+
+.duty p{
+    position: absolute;
+    width: 167px;
+    height: 28px;
+    left: 26px;
+    font-family: Lato;
+    font-weight: normal;
+    font-style: normal;
+    font-size: 15px;
+    line-height: 28px;
+    color: #454545; 
+}
+
+.dead{
+    position: absolute;
+    width: 167px;
+    height: 28px;
+    left: 42px;
+    top: 683px;
+    display: flex;
+}
+
+.dead p{
+    position: absolute;
+    width: 167px;
+    height: 28px;
+    left: 26px;
+    font-family: Lato;
+    font-weight: normal;
+    font-style: normal;
+    font-size: 15px;
+    line-height: 28px;
+    color: #454545; 
+}
+
+.sales{
+    position: absolute;
+    width: 219px;
+    height: 28px;
+    left: 16px;
+    top: 716px;
+    display: flex;
+}
+
+.sales p{
+    position: absolute;
+    width: 167px;
+    height: 28px;
+    left: 26px;
+    font-family: Lato;
+    font-weight: bold;
+    font-style: normal;
+    font-size: 15px;
+    line-height: 28px;
+    color: #454545; 
+}
+
+.prospect{
+    position: absolute;
+    width: 219px;
+    height: 28px;
+    left: 42px;
+    top: 749px;
+    display: flex;
+}
+
+.prospect p{
+    position: absolute;
+    width: 167px;
+    height: 28px;
+    left: 26px;
+    font-family: Lato;
+    font-weight: normal;
+    font-style: normal;
+    font-size: 15px;
+    line-height: 28px;
+    color: #454545; 
+}
+
+.channel{
+    position: absolute;
+    width: 219px;
+    height: 28px;
+    left: 16px;
+    top: 782px;
+    display: flex;
+}
+
+.channel p{
+    position: absolute;
+    width: 167px;
+    height: 28px;
+    left: 26px;
+    font-family: Lato;
+    font-weight: bold;
+    font-style: normal;
+    font-size: 15px;
+    line-height: 28px;
+    color: #454545; 
+}
+
+.announce{
+    position: absolute;
+    width: 193px;
+    height: 28px;
+    left: 42px;
+    top: 815px;
+    display: flex;
+}
+
+.announce p{
+    position: absolute;
+    width: 167px;
+    height: 28px;
+    left: 26px;
+    font-family: Lato;
+    font-weight: normal;
+    font-style: normal;
+    font-size: 15px;
+    line-height: 28px;
+    color: #454545; 
+}
+
+.gen{
+    position: absolute;
+    width: 193px;
+    height: 28px;
+    left: 42px;
+    top: 843px;
+    display: flex;
+}
+
+.gen p{
+    position: absolute;
+    width: 167px;
+    height: 28px;
+    left: 26px;
+    font-family: Lato;
+    font-weight: normal;
+    font-style: normal;
+    font-size: 15px;
+    line-height: 28px;
+    color: #454545; 
+}
+
+.dev{
+    position: absolute;
+    width: 193px;
+    height: 28px;
+    left: 42px;
+    top: 871px;
+    display: flex;
+}
+
+.dev p{
+    position: absolute;
+    width: 167px;
+    height: 28px;
+    left: 26px;
+    font-family: Lato;
+    font-weight: normal;
+    font-style: normal;
+    font-size: 15px;
+    line-height: 28px;
+    color: #454545; 
+}
+
+.joke{
+    position: absolute;
+    width: 193px;
+    height: 28px;
+    left: 42px;
+    top: 899px;
+    display: flex;
+}
+
+.joke p{
+    position: absolute;
+    width: 167px;
+    height: 28px;
+    left: 26px;
+    font-family: Lato;
+    font-weight: normal;
+    font-style: normal;
+    font-size: 15px;
+    line-height: 28px;
+    color: #454545; 
+}
+
+.rand{
+    position: absolute;
+    width: 193px;
+    height: 28px;
+    left: 42px;
+    top: 927px;
+    display: flex;
+}
+
+.rand p{
+    position: absolute;
+    width: 167px;
+    height: 28px;
+    left: 26px;
+    font-family: Lato;
+    font-weight: normal;
+    font-style: normal;
+    font-size: 15px;
+    line-height: 28px;
+    color: #454545; 
+}
+
+.add{
+    position: absolute;
+    width: 193px;
+    height: 28px;
+    left: 42px;
+    top: 955px;
+    display: flex;
+}
+
+.add .fa-plus-circle{
+    position: absolute;
+    left: -2px;
+    top: 6px;
+
+}
+
+.add p{
+    position: absolute;
+    width: 167px;
+    height: 28px;
+    left: 26px;
+    font-family: Lato;
+    font-weight: normal;
+    font-style: normal;
+    font-size: 15px;
+    line-height: 28px;
+    color: #454545; 
+}
+
+.direct{
+    position: absolute;
+    width: 219px;
+    height: 28px;
+    left: 16px;
+    top: 988px;
+    display: flex;
+}
+
+.direct p{
+    position: absolute;
+    width: 167px;
+    height: 28px;
+    left: 26px;
+    font-family: Lato;
+    font-weight: bold;
+    font-style: normal;
+    font-size: 15px;
+    line-height: 28px;
+    color: #454545; 
+}
+
+.doe{
+    position: absolute;
+    width: 191px;
+    height: 28px;
+    left: 35px;
+    top: 1021px;
+    display: flex;
+    flex-direction: row;   
+}
+
+.doe img{
+    position: static;
+    width: 24px;
+    height: 24px;
+    left: 0px;
+    top: 0px;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    margin: 0px 8px;
+}
+
+.doe p{
+    position: static;
+    width: 162px;
+    height: 28px;
+    left: 32px;
+    top: 0px;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 28px;
+    color: #454545;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+    margin: 0px 8px;
+}
+
+.kel{
+    position: absolute;
+    width: 191px;
+    height: 28px;
+    left: 35px;
+    top: 1049px;
+    display: flex;
+    flex-direction: row;
+}
+
+.kel img{
+    position: static;
+    width: 24px;
+    height: 24px;
+    left: 0px;
+    top: 0px;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    margin: 0px 8px;
+}
+
+.kel p{
+    position: static;
+    width: 159px;
+    height: 28px;
+    left: 32px;
+    top: 0px;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 28px;
+    color: #454545;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+    margin: 0px 8px;
+}
+
+.ben{
+    position: absolute;
+    width: 191px;
+    height: 28px;
+    left: 35px;
+    top: 1077px;
+    display: flex;
+    flex-direction: row;
+}
+
+.ben img{
+    position: static;
+    width: 24px;
+    height: 24px;
+    left: 0px;
+    top: 0px;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    margin: 0px 8px;
+}
+
+.ben p{
+    position: static;
+    width: 159px;
+    height: 28px;
+    left: 32px;
+    top: 0px;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 28px;
+    color: #454545;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+    margin: 0px 8px;
+}
+
+.barg{
+    position: absolute;
+    width: 191px;
+    height: 28px;
+    left: 35px;
+    top: 1105px;
+    display: flex;
+    flex-direction: row;
+}
+
+
+.barg img{
+    position: static;
+    width: 24px;
+    height: 24px;
+    left: 0px;
+    top: 0px;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    margin: 0px 8px;
+}
+
+.barg p{
+    position: static;
+    width: 159px;
+    height: 28px;
+    left: 32px;
+    top: 0px;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 28px;
+    color: #454545;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+    margin: 0px 8px;
+}
+
+.mates{
+    position: absolute;
+    width: 192px;
+    height: 28px;
+    left: 43px;
+    top: 1133px;
+    display: flex;
+}
+
+.mates .fa-plus-circle{
+    position: absolute;
+    left: -2px;
+    top: 6px;
+
+}
+
+.mates p{
+    position: absolute;
+    width: 167px;
+    height: 28px;
+    left: 26px;
+    font-family: Lato;
+    font-weight: normal;
+    font-style: normal;
+    font-size: 15px;
+    line-height: 28px;
+    color: #454545; 
+}
+
+
+
+
+/* css for rightbar */
+.rightbar{
+    position: absolute;
+    width: 1170px;
+    right: 0px;
+    height: 1346px;
+    top: 0px;
+    left: 270px;
+    background: #f9f9f9;
+}
+/* css for navbar */
+.navbar-top{
+    position: absolute;
+    width: 1170px;
+    height: 62px;
+    /* left: 268px; */
+    top: 0%;
+    right: 0%;
+    background: #ffffff;
+}
+.form-control{
+    position: absolute;
+    width: 585px;
+    height: 32px;
+    top: 15px;
+    left: 16px;
+    background: rgba(255, 255, 255, 0.4);
+    border: 0.8px solid rgba(153, 153, 153, 0.2);
+    box-sizing: border-box;
+    border-radius: 3px;
+}
+.navbar-top img{
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 1132px;
+    top: 19px;
+}
+/* css for section-1 */
+.section-1{
+    position: absolute;
+    width: 1170px;
+    height: 400px;
+    top: 63px;
+    border-radius: 8px;
+    /* background: #c77171; */
+}
+
+.sect-a{
+    position: absolute;
+    width: 612px;
+    height: 222px;
+    left: 48px;
+    top: 89px;
+    bottom: 89px;
+    /* background: white; */
+}
+
+.sect-a h6{
+    position: absolute;
+    width: 546px;
+    height: 48px;
+    left: 48px;
+    top: 89px;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 38.5px;
+    line-height: 48px;
+    display: flex;
+    align-items: center;
+    /* text-transform: uppercase; */
+    color: #454545;
+}
+
+.sect-a p{
+    position: absolute;
+    left: 48px;
+    /* right: 512px; */
+    top: 141px;
+    /* bottom: 203px; */
+    font-family: Lato;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 25px;
+    line-height: 40px;
+    color: #616061;
+    display: flex;
+    align-items: center;
+}
+
+.sect-a button{
+    position: absolute;
+    width: 151px;
+    height: 56px;
+    left: 48px;
+    top: 255px;
+    background: #00887c;
+    border-radius: 3px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 14px 18px;
+    color: #ffffff;
+}
+
+.sect-b{
+    position: absolute;
+    width: 426px;
+    height: 260px;
+    left: 690ppx;
+    top: 70px;
+    right: 56px;
+}
+
+.section-2{
+    position: absolute;
+    width: 1170px;
+    height: 395px;
+    top: 479px;
+    background: #ffffff;
+}
+.section-3{
+    position: absolute;
+    width: 1170px;
+    height: 456px;
+    top: 890px;
+    border-radius: 8px;
+    background: #ffffff;
+}
