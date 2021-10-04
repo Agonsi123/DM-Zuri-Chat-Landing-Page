@@ -39,13 +39,15 @@
     left: 6px;
     /* right: 59.21%; */
 }
+
+/* css for HNGI8 */
 .frame{
     position: absolute;
     width: 260px;
     height: 44px;
     top: 62px;
     left: 0px;
-    background: #00887c;
+    background: #00b87c;
 }
 .frame h6{
     position: absolute;
@@ -85,6 +87,8 @@
     left: 9px;
     top: 9px;
 }
+
+/* CSS for thread */
 .thread{
     position: absolute;
     width: 219px;
@@ -106,6 +110,8 @@
     line-height: 28px;
     color: #454545;
 }
+
+/* css for All DMs */
 .all-dm{
     position: absolute;
     width: 219px;
@@ -127,6 +133,8 @@
     line-height: 28px;
     color: #454545; 
 }
+
+/* css for drafts */
 
 .draft{
     position: absolute;
@@ -151,6 +159,8 @@
     color: #454545; 
 }
 
+/* css for files */
+
 .files{
     position: absolute;
     width: 219px;
@@ -173,6 +183,8 @@
     line-height: 28px;
     color: #454545; 
 }
+
+/* css for plugins */
 
 .plugin{
     position: absolute;
@@ -204,6 +216,8 @@
     top: 9px;
 }
 
+/* css for games */
+
 .game{
     position: absolute;
     width: 219px;
@@ -226,6 +240,8 @@
     line-height: 28px;
     color: #454545; 
 }
+
+/* css for chess */
 
 .chess{
     position: absolute;
@@ -250,6 +266,8 @@
     color: #454545; 
 }
 
+/* css for Solitaire */
+
 .sol{
     position: absolute;
     width: 192px;
@@ -272,6 +290,8 @@
     line-height: 28px;
     color: #454545; 
 }
+
+/* css for Music */
 
 .music{
     position: absolute;
@@ -296,6 +316,8 @@
     color: #454545; 
 }
 
+/* css for All-music */
+
 .all-mus{
     position: absolute;
     width: 240px;
@@ -318,6 +340,8 @@
     line-height: 28px;
     color: #454545; 
 }
+
+/* css for Mx-tape */
 
 .tape{
     position: absolute;
@@ -342,6 +366,8 @@
     color: #454545; 
 }
 
+/* css for Tools */
+
 .tools{
     position: absolute;
     width: 167px;
@@ -363,6 +389,8 @@
     line-height: 28px;
     color: #454545; 
 }
+
+/* css for Online-tools */
 
 .online{
     position: absolute;
@@ -391,6 +419,8 @@
     color: #454545; 
 }
 
+/* css for To-do-list */
+
 .to-do{
     position: absolute;
     width: 219px;
@@ -412,6 +442,8 @@
     line-height: 28px;
     color: #454545; 
 }
+
+/* css for Whiteboard */
 
 .white{
     position: absolute;
@@ -435,6 +467,8 @@
     color: #454545; 
 }
 
+/* css for Notice board */
+
 .notice{
     position: absolute;
     width: 219px;
@@ -456,6 +490,8 @@
     line-height: 28px;
     color: #454545; 
 }
+
+/* css for Calendar */
 
 .calendar{
     position: absolute;
@@ -479,6 +515,8 @@
     color: #454545; 
 }
 
+/* css for Holiday calendar */
+
 .holy{
     position: absolute;
     width: 167px;
@@ -500,6 +538,8 @@
     line-height: 28px;
     color: #454545; 
 }
+
+/* css for Duty-shift */
 
 .duty{
     position: absolute;
@@ -523,6 +563,8 @@
     color: #454545; 
 }
 
+/* css for important Deadline */
+
 .dead{
     position: absolute;
     width: 167px;
@@ -544,6 +586,8 @@
     line-height: 28px;
     color: #454545; 
 }
+
+/* css for Sales */
 
 .sales{
     position: absolute;
@@ -567,6 +611,8 @@
     color: #454545; 
 }
 
+/* css for Sales-prospect */
+
 .prospect{
     position: absolute;
     width: 219px;
@@ -588,6 +634,8 @@
     line-height: 28px;
     color: #454545; 
 }
+
+/* css for Channels */
 
 .channel{
     position: absolute;
@@ -611,6 +659,8 @@
     color: #454545; 
 }
 
+/* css for announcement */
+
 .announce{
     position: absolute;
     width: 193px;
@@ -632,6 +682,8 @@
     line-height: 28px;
     color: #454545; 
 }
+
+/* css for General */
 
 .gen{
     position: absolute;
@@ -655,6 +707,8 @@
     color: #454545; 
 }
 
+/* css for Developers */
+
 .dev{
     position: absolute;
     width: 193px;
@@ -676,6 +730,8 @@
     line-height: 28px;
     color: #454545; 
 }
+
+/* css for Jokes */
 
 .joke{
     position: absolute;
@@ -699,6 +755,8 @@
     color: #454545; 
 }
 
+/* css for Random */
+
 .rand{
     position: absolute;
     width: 193px;
@@ -720,6 +778,8 @@
     line-height: 28px;
     color: #454545; 
 }
+
+/* css for Add channels */
 
 .add{
     position: absolute;
@@ -750,6 +810,8 @@
     color: #454545; 
 }
 
+/* css for Direct messages */
+
 .direct{
     position: absolute;
     width: 219px;
@@ -772,6 +834,7 @@
     color: #454545; 
 }
 
+/* css for Jane Doe */
 .doe{
     position: absolute;
     width: 191px;
@@ -811,6 +874,8 @@
     flex-grow: 0;
     margin: 0px 8px;
 }
+
+/* css for Kelvin monument */
 
 .kel{
     position: absolute;
@@ -852,6 +917,8 @@
     margin: 0px 8px;
 }
 
+/* css for Sandra Bernard */
+
 .ben{
     position: absolute;
     width: 191px;
@@ -891,6 +958,8 @@
     flex-grow: 0;
     margin: 0px 8px;
 }
+
+/* css for Akeem Bargu */
 
 .barg{
     position: absolute;
@@ -933,6 +1002,8 @@
     margin: 0px 8px;
 }
 
+/* css for teammates */
+
 .mates{
     position: absolute;
     width: 192px;
@@ -966,6 +1037,7 @@
 
 
 /* css for rightbar */
+
 .rightbar{
     position: absolute;
     width: 1170px;
@@ -976,6 +1048,7 @@
     background: #f9f9f9;
 }
 /* css for navbar */
+
 .navbar-top{
     position: absolute;
     width: 1170px;
@@ -1004,23 +1077,26 @@
     top: 19px;
 }
 /* css for section-1 */
+
 .section-1{
     position: absolute;
     width: 1170px;
     height: 400px;
     top: 63px;
     border-radius: 8px;
-    /* background: #c77171; */
+    background: white;
 }
+
+/* css for sect-a */
 
 .sect-a{
     position: absolute;
     width: 612px;
     height: 222px;
     left: 48px;
-    top: 89px;
+    top: 19px;
     bottom: 89px;
-    /* background: white; */
+    
 }
 
 .sect-a h6{
@@ -1062,7 +1138,7 @@
     height: 56px;
     left: 48px;
     top: 255px;
-    background: #00887c;
+    background: #00b87c;
     border-radius: 3px;
     display: flex;
     flex-direction: row;
@@ -1071,6 +1147,8 @@
     padding: 14px 18px;
     color: #ffffff;
 }
+
+/* css for sect-b */
 
 .sect-b{
     position: absolute;
@@ -1081,6 +1159,8 @@
     right: 56px;
 }
 
+/* css for sction 2 */
+
 .section-2{
     position: absolute;
     width: 1170px;
@@ -1088,6 +1168,163 @@
     top: 479px;
     background: #ffffff;
 }
+
+/* css for sect-2-a */
+
+.sect-2-a{
+    position: absolute;
+    width: 679px;
+    height: 48px;
+    left: 242px;
+    top: 32px;
+}
+
+.sect-2-a h6{
+    position: absolute;
+    font-size: 31px;
+    font-weight: bold;
+    font-family: Lato;
+    font-style: normal;
+    line-height: 48px;
+    display: flex;
+    align-items: center;
+    color: #454545;
+}
+
+/* css for sect-2-b */
+
+.sect-2-b{
+    position: relative;
+    display: inline-block;
+    margin-right: 90px;
+    width: 240px;
+    height: 240px;
+    left: 126px;
+    top: 123px;
+    background: #ffffff;
+    border: 3px solid #f6f6f6;
+    box-sizing: border-box;
+    border-radius: 8px;
+}
+
+.mes{
+    position: absolute;
+    width: 56px;
+    height: 56px;
+    left: 92px;
+    top: 16px;
+    background: #00b87c;
+    border-radius: 4px;
+}
+
+.secure{
+    position: absolute;
+    width: 205px;
+    height: 40px;
+    left: 45px;
+    top: 80px;
+}
+
+.secure p{
+    position: absolute;
+    font-size: 18px;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: bold;
+    line-height: 40px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #1d1d1d;
+}
+
+.external{
+    position: absolute;
+    width: 205px;
+    height: 63px;
+    left: 18px;
+    top: 120px;
+}
+
+.external p{
+    position: absolute;
+    font-size: 13px;
+    line-height: 23px;
+    font-family: Lato;
+    font-weight: bold;
+    font-style: normal;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #454545;
+}
+
+.learn{
+    position: absolute;
+    width: 134px;
+    height: 48px;
+    left: 53px;
+    top: 176px;   
+}
+
+.more{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 12px 16px;
+    position: static;
+    width: 114px;
+    height: 48px;
+    left: 0px;
+    top: 0px;
+    background: #ffffff;
+    border-radius: 3px;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    margin: 0px 0px;
+}
+
+.more hr{
+    width: 150px;
+    border-width: medium;
+    border-color: #00b87c;
+}
+
+.learn p{
+    position: absolute;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 0px;
+    color: #00b87c;
+}
+
+.arrow{
+    position: static;
+    width: 20px;
+    height: 20px;
+    left: 114px;
+    top: 14px;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+    margin: 0px 0px;
+}
+
+.fa-arrow-right{
+    position: absolute;
+    left: 120px;
+    right: 0px;
+    top: 9px;
+    bottom: 0px;
+    color: #00b87c;
+}
+
+/* css for section-3 */
+
 .section-3{
     position: absolute;
     width: 1170px;
@@ -1095,4 +1332,72 @@
     top: 890px;
     border-radius: 8px;
     background: #ffffff;
+}
+
+/* css for sect-3-a */
+
+.sect-3-a{
+    position: absolute;
+    width: 320px;
+    height: 320px;
+    left: 56px;
+    top: 64px;
+}
+/* css for sect-3-b */
+
+.sect-3-b{
+    position: absolute;
+    width: 612px;
+    height: 272px;
+    left: 440px;
+    top: 88px;
+}
+.sect-3-b h6{
+    position: absolute;
+    width: 566px;
+    height: 96px;
+    left: 30px;
+    top: 5px;
+    font-size: 33px;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: bold;
+    line-height: 48px;
+    display: flex;
+    align-items: center;
+    color: #454545;
+}
+
+.sect-3-b p{
+    position: absolute;
+    width: 612px;
+    height: 56px;
+    left: 30px;
+    right: 120px;
+    top: 135px;
+    bottom: 188px;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 21px;
+    line-height: 40px;
+    display: flex;
+    align-items: center;
+    color: #616061;
+}
+
+.sect-3-b button{
+    position: absolute;
+    width: 151px;
+    height: 56px;
+    left: 30px;
+    top: 220px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 14px 18px;
+    background: #00b87c;
+    border-radius: 3px;
+    color: #ffffff;
 }
